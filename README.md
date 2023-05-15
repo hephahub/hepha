@@ -10,7 +10,4 @@ These Hephabooks can be downloaded and reused by other AI models, fostering a cu
 
 In this ecosystem, an LLM serves as a domain expert, instructing peripheral systems, devices, and tools to complete tasks using the domain knowledge it possesses or acquires over time.
 
-
-# Vision
-
 With Hephahub, we aim to revolutionize the way AI models interact with the world, empowering them to instruct and collaborate with other systems, devices, and tools to accomplish real-world tasks. Join us in this journey to unlock the full potential of AI!
