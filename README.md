@@ -1,4 +1,4 @@
-# Hephahub
+# Hepha Hub
 
 Hephahub is a centralized hub designed to collect and distribute instructions and metadata (termed as "hephabooks") from and to AI models. The core aim of this hub is to enable AI models to interact more effectively and efficiently with the cyber world by leveraging the power of knowledge, thereby enhancing their ability to complete various tasks.
 
